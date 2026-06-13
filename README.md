@@ -4,7 +4,6 @@ Hung's Research
 
 # Access
 
-My drafts (attempts): https://github.com/nahhididwin/The-research-of-Hung/tree/main/files/attempts
 
 
 
