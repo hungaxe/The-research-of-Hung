@@ -6,7 +6,7 @@
 
 ## Abstract
 
-This whitepaper formally develops the core intuition of USPA: that computational complexity is partly a consequence of problem encoding rather than an intrinsic property of the computation. Rather than claiming universal O(1) complexity (which violates well-established lower bounds), we:
+This whitepaper formally develops the core intuition of USPA: that computational complexity is partly a consequence of problem encoding rather than an intrinsic property of the computation, we:
 
 1. **Rigorously define** a class of encodings (Structural Positional Representations) where certain operations become tractable under specific models
 2. **Characterize** the trade-offs explicitly: proving that complexity is shifted to the encoding phase
