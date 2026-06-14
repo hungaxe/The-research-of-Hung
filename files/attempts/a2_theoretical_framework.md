@@ -414,5 +414,3 @@ This is the work of many researchers over many years, not a single insight or fr
 - Yserentant, H. (2005). *Regular Decomposition of Vector Fields and Problems of Vector Decomposition*
 
 ---
-
-**Authorship Note:** This framework represents an attempt to take seriously the structural insights in the original work while subjecting them to rigorous scrutiny and constraint. The goal is not to defend or validate the original thesis, but to extract whatever is true and useful within it, while being honest about what remains speculative, overclaimed, or simply not yet proven.
