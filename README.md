@@ -7,6 +7,7 @@ Hung's Research
 **Diagnosing Limitations in Current Computational Models and Proposing Alternative Directions** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a2_theoretical_framework.md
 
 
+
 # Author 
 
 Full name : Hung Dinh Phu Dang (Đặng Đình Phú Hưng)
