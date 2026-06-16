@@ -12,6 +12,8 @@ https://github.com/nahhididwin/The-research-of-Hung
 
 This paper examines a fundamental tension in contemporary mathematics and computer science: **the reduction of complex structural information into component-wise operations**, which necessitates iterative processing (typically $O(n)$ or worse) even when the essential semantic content could theoretically be preserved without decomposition.
 
+("WE" <=> "I")
+
 We do not propose a complete alternative framework, but rather:
 
 1. Diagnose specific limitations in how current mathematics handles structural equivalence
