@@ -8,6 +8,10 @@ Hung's Research
 
 **Propose** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a4.md
 
+("WE" <=> "I")
+
+
+
 # Author 
 
 Full name : Hung Dinh Phu Dang (Đặng Đình Phú Hưng)
