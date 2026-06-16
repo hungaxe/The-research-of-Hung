@@ -6,7 +6,7 @@ Hung's Research
 
 **Diagnosing Limitations in Current Computational Models and Proposing Alternative Directions** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a2_theoretical_framework.md
 
-
+**Propose** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a4.md
 
 # Author 
 
