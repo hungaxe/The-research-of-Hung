@@ -1,9 +1,8 @@
 # Convolution Topology as Foundational Structure: 
 ## A Rigorous Framework for Direct Functional Mapping Without Scalar Materialization
 
-**Author:** A. Dang  
+**Author:** Hung Dinh Phu Dang
 **Date:** June 16, 2026  
-**Status:** Preprint – Under rigorous peer review
 
 ---
 
@@ -597,7 +596,3 @@ Let $E = \sum_{i=1}^{n} (A_i \circ v_i)$ where $A_i: \mathcal{V}_{d_i} \to \math
 *[Full algebraic formalization continues for 5+ pages in actual journal submission]*
 
 ---
-
-**END OF WHITEPAPER**
-
-This whitepaper is submitted for rigorous peer review and critique. All claims are falsifiable; all limitations are explicitly stated. The authors welcome corrections, boundary cases, and extensions of this framework.
